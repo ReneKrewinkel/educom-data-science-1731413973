@@ -1,0 +1,4 @@
+SELECT AlbumID, COUNT(AlbumID) 
+FROM `track` 
+GROUP BY AlbumID 
+HAVING COUNT(AlbumID) >= 12;
