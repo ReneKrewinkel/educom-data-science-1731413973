@@ -1,0 +1,1874 @@
+[
+    {
+        "rank":  36,
+        "cca3":  "AFG",
+        "country":  "Afghanistan",
+        "capital":  "Kabul",
+        "area_km2":  652230,
+        "id":  1
+    },
+    {
+        "rank":  138,
+        "cca3":  "ALB",
+        "country":  "Albania",
+        "capital":  "Tirana",
+        "area_km2":  28748,
+        "id":  2
+    },
+    {
+        "rank":  34,
+        "cca3":  "DZA",
+        "country":  "Algeria",
+        "capital":  "Algiers",
+        "area_km2":  2381741,
+        "id":  0
+    },
+    {
+        "rank":  213,
+        "cca3":  "ASM",
+        "country":  "American Samoa",
+        "capital":  "Pago Pago",
+        "area_km2":  199,
+        "id":  4
+    },
+    {
+        "rank":  203,
+        "cca3":  "AND",
+        "country":  "Andorra",
+        "capital":  "Andorra la Vella",
+        "area_km2":  468,
+        "id":  2
+    },
+    {
+        "rank":  42,
+        "cca3":  "AGO",
+        "country":  "Angola",
+        "capital":  "Luanda",
+        "area_km2":  1246700,
+        "id":  0
+    },
+    {
+        "rank":  224,
+        "cca3":  "AIA",
+        "country":  "Anguilla",
+        "capital":  "The Valley",
+        "area_km2":  91,
+        "id":  3
+    },
+    {
+        "rank":  201,
+        "cca3":  "ATG",
+        "country":  "Antigua and Barbuda",
+        "capital":  "Saint Johnâ€™s",
+        "area_km2":  442,
+        "id":  3
+    },
+    {
+        "rank":  33,
+        "cca3":  "ARG",
+        "country":  "Argentina",
+        "capital":  "Buenos Aires",
+        "area_km2":  2780400,
+        "id":  5
+    },
+    {
+        "rank":  140,
+        "cca3":  "ARM",
+        "country":  "Armenia",
+        "capital":  "Yerevan",
+        "area_km2":  29743,
+        "id":  1
+    },
+    {
+        "rank":  198,
+        "cca3":  "ABW",
+        "country":  "Aruba",
+        "capital":  "Oranjestad",
+        "area_km2":  180,
+        "id":  3
+    },
+    {
+        "rank":  55,
+        "cca3":  "AUS",
+        "country":  "Australia",
+        "capital":  "Canberra",
+        "area_km2":  7692024,
+        "id":  4
+    },
+    {
+        "rank":  99,
+        "cca3":  "AUT",
+        "country":  "Austria",
+        "capital":  "Vienna",
+        "area_km2":  83871,
+        "id":  2
+    },
+    {
+        "rank":  91,
+        "cca3":  "AZE",
+        "country":  "Azerbaijan",
+        "capital":  "Baku",
+        "area_km2":  86600,
+        "id":  1
+    },
+    {
+        "rank":  176,
+        "cca3":  "BHS",
+        "country":  "Bahamas",
+        "capital":  "Nassau",
+        "area_km2":  13943,
+        "id":  3
+    },
+    {
+        "rank":  154,
+        "cca3":  "BHR",
+        "country":  "Bahrain",
+        "capital":  "Manama",
+        "area_km2":  765,
+        "id":  1
+    },
+    {
+        "rank":  8,
+        "cca3":  "BGD",
+        "country":  "Bangladesh",
+        "capital":  "Dhaka",
+        "area_km2":  147570,
+        "id":  1
+    },
+    {
+        "rank":  186,
+        "cca3":  "BRB",
+        "country":  "Barbados",
+        "capital":  "Bridgetown",
+        "area_km2":  430,
+        "id":  3
+    },
+    {
+        "rank":  96,
+        "cca3":  "BLR",
+        "country":  "Belarus",
+        "capital":  "Minsk",
+        "area_km2":  207600,
+        "id":  2
+    },
+    {
+        "rank":  81,
+        "cca3":  "BEL",
+        "country":  "Belgium",
+        "capital":  "Brussels",
+        "area_km2":  30528,
+        "id":  2
+    },
+    {
+        "rank":  177,
+        "cca3":  "BLZ",
+        "country":  "Belize",
+        "capital":  "Belmopan",
+        "area_km2":  22966,
+        "id":  3
+    },
+    {
+        "rank":  77,
+        "cca3":  "BEN",
+        "country":  "Benin",
+        "capital":  "Porto-Novo",
+        "area_km2":  112622,
+        "id":  0
+    },
+    {
+        "rank":  206,
+        "cca3":  "BMU",
+        "country":  "Bermuda",
+        "capital":  "Hamilton",
+        "area_km2":  54,
+        "id":  3
+    },
+    {
+        "rank":  165,
+        "cca3":  "BTN",
+        "country":  "Bhutan",
+        "capital":  "Thimphu",
+        "area_km2":  38394,
+        "id":  1
+    },
+    {
+        "rank":  80,
+        "cca3":  "BOL",
+        "country":  "Bolivia",
+        "capital":  "Sucre",
+        "area_km2":  1098581,
+        "id":  5
+    },
+    {
+        "rank":  137,
+        "cca3":  "BIH",
+        "country":  "Bosnia and Herzegovina",
+        "capital":  "Sarajevo",
+        "area_km2":  51209,
+        "id":  2
+    },
+    {
+        "rank":  144,
+        "cca3":  "BWA",
+        "country":  "Botswana",
+        "capital":  "Gaborone",
+        "area_km2":  582000,
+        "id":  0
+    },
+    {
+        "rank":  7,
+        "cca3":  "BRA",
+        "country":  "Brazil",
+        "capital":  "Brasilia",
+        "area_km2":  8515767,
+        "id":  5
+    },
+    {
+        "rank":  221,
+        "cca3":  "VGB",
+        "country":  "British Virgin Islands",
+        "capital":  "Road Town",
+        "area_km2":  151,
+        "id":  3
+    },
+    {
+        "rank":  175,
+        "cca3":  "BRN",
+        "country":  "Brunei",
+        "capital":  "Bandar Seri Begawan",
+        "area_km2":  5765,
+        "id":  1
+    },
+    {
+        "rank":  108,
+        "cca3":  "BGR",
+        "country":  "Bulgaria",
+        "capital":  "Sofia",
+        "area_km2":  110879,
+        "id":  2
+    },
+    {
+        "rank":  58,
+        "cca3":  "BFA",
+        "country":  "Burkina Faso",
+        "capital":  "Ouagadougou",
+        "area_km2":  272967,
+        "id":  0
+    },
+    {
+        "rank":  78,
+        "cca3":  "BDI",
+        "country":  "Burundi",
+        "capital":  "Bujumbura",
+        "area_km2":  27834,
+        "id":  0
+    },
+    {
+        "rank":  73,
+        "cca3":  "KHM",
+        "country":  "Cambodia",
+        "capital":  "Phnom Penh",
+        "area_km2":  181035,
+        "id":  1
+    },
+    {
+        "rank":  53,
+        "cca3":  "CMR",
+        "country":  "Cameroon",
+        "capital":  "Yaounde",
+        "area_km2":  475442,
+        "id":  0
+    },
+    {
+        "rank":  39,
+        "cca3":  "CAN",
+        "country":  "Canada",
+        "capital":  "Ottawa",
+        "area_km2":  9984670,
+        "id":  3
+    },
+    {
+        "rank":  171,
+        "cca3":  "CPV",
+        "country":  "Cape Verde",
+        "capital":  "Praia",
+        "area_km2":  4033,
+        "id":  0
+    },
+    {
+        "rank":  205,
+        "cca3":  "CYM",
+        "country":  "Cayman Islands",
+        "capital":  "George Town",
+        "area_km2":  264,
+        "id":  3
+    },
+    {
+        "rank":  117,
+        "cca3":  "CAF",
+        "country":  "Central African Republic",
+        "capital":  "Bangui",
+        "area_km2":  622984,
+        "id":  0
+    },
+    {
+        "rank":  69,
+        "cca3":  "TCD",
+        "country":  "Chad",
+        "capital":  "N\u0027Djamena",
+        "area_km2":  1284000,
+        "id":  0
+    },
+    {
+        "rank":  65,
+        "cca3":  "CHL",
+        "country":  "Chile",
+        "capital":  "Santiago",
+        "area_km2":  756102,
+        "id":  5
+    },
+    {
+        "rank":  1,
+        "cca3":  "CHN",
+        "country":  "China",
+        "capital":  "Beijing",
+        "area_km2":  9706961,
+        "id":  1
+    },
+    {
+        "rank":  28,
+        "cca3":  "COL",
+        "country":  "Colombia",
+        "capital":  "Bogota",
+        "area_km2":  1141748,
+        "id":  5
+    },
+    {
+        "rank":  163,
+        "cca3":  "COM",
+        "country":  "Comoros",
+        "capital":  "Moroni",
+        "area_km2":  1862,
+        "id":  0
+    },
+    {
+        "rank":  223,
+        "cca3":  "COK",
+        "country":  "Cook Islands",
+        "capital":  "Avarua",
+        "area_km2":  236,
+        "id":  4
+    },
+    {
+        "rank":  124,
+        "cca3":  "CRI",
+        "country":  "Costa Rica",
+        "capital":  "San JosÃ©",
+        "area_km2":  51100,
+        "id":  3
+    },
+    {
+        "rank":  130,
+        "cca3":  "HRV",
+        "country":  "Croatia",
+        "capital":  "Zagreb",
+        "area_km2":  56594,
+        "id":  2
+    },
+    {
+        "rank":  85,
+        "cca3":  "CUB",
+        "country":  "Cuba",
+        "capital":  "Havana",
+        "area_km2":  109884,
+        "id":  3
+    },
+    {
+        "rank":  189,
+        "cca3":  "CUW",
+        "country":  "Curacao",
+        "capital":  "Willemstad",
+        "area_km2":  444,
+        "id":  3
+    },
+    {
+        "rank":  158,
+        "cca3":  "CYP",
+        "country":  "Cyprus",
+        "capital":  "Nicosia",
+        "area_km2":  9251,
+        "id":  2
+    },
+    {
+        "rank":  88,
+        "cca3":  "CZE",
+        "country":  "Czech Republic",
+        "capital":  "Prague",
+        "area_km2":  78865,
+        "id":  2
+    },
+    {
+        "rank":  115,
+        "cca3":  "DNK",
+        "country":  "Denmark",
+        "capital":  "Copenhagen",
+        "area_km2":  43094,
+        "id":  2
+    },
+    {
+        "rank":  160,
+        "cca3":  "DJI",
+        "country":  "Djibouti",
+        "capital":  "Djibouti",
+        "area_km2":  23200,
+        "id":  0
+    },
+    {
+        "rank":  204,
+        "cca3":  "DMA",
+        "country":  "Dominica",
+        "capital":  "Roseau",
+        "area_km2":  751,
+        "id":  3
+    },
+    {
+        "rank":  84,
+        "cca3":  "DOM",
+        "country":  "Dominican Republic",
+        "capital":  "Santo Domingo",
+        "area_km2":  48671,
+        "id":  3
+    },
+    {
+        "rank":  15,
+        "cca3":  "COD",
+        "country":  "DR Congo",
+        "capital":  "Kinshasa",
+        "area_km2":  2344858,
+        "id":  0
+    },
+    {
+        "rank":  67,
+        "cca3":  "ECU",
+        "country":  "Ecuador",
+        "capital":  "Quito",
+        "area_km2":  276841,
+        "id":  5
+    },
+    {
+        "rank":  14,
+        "cca3":  "EGY",
+        "country":  "Egypt",
+        "capital":  "Cairo",
+        "area_km2":  1002450,
+        "id":  0
+    },
+    {
+        "rank":  112,
+        "cca3":  "SLV",
+        "country":  "El Salvador",
+        "capital":  "San Salvador",
+        "area_km2":  21041,
+        "id":  3
+    },
+    {
+        "rank":  152,
+        "cca3":  "GNQ",
+        "country":  "Equatorial Guinea",
+        "capital":  "Malabo",
+        "area_km2":  28051,
+        "id":  0
+    },
+    {
+        "rank":  132,
+        "cca3":  "ERI",
+        "country":  "Eritrea",
+        "capital":  "Asmara",
+        "area_km2":  117600,
+        "id":  0
+    },
+    {
+        "rank":  156,
+        "cca3":  "EST",
+        "country":  "Estonia",
+        "capital":  "Tallinn",
+        "area_km2":  45227,
+        "id":  2
+    },
+    {
+        "rank":  159,
+        "cca3":  "SWZ",
+        "country":  "Eswatini",
+        "capital":  "Mbabane",
+        "area_km2":  17364,
+        "id":  0
+    },
+    {
+        "rank":  12,
+        "cca3":  "ETH",
+        "country":  "Ethiopia",
+        "capital":  "Addis Ababa",
+        "area_km2":  1104300,
+        "id":  0
+    },
+    {
+        "rank":  231,
+        "cca3":  "FLK",
+        "country":  "Falkland Islands",
+        "capital":  "Stanley",
+        "area_km2":  12173,
+        "id":  5
+    },
+    {
+        "rank":  209,
+        "cca3":  "FRO",
+        "country":  "Faroe Islands",
+        "capital":  "TÃ³rshavn",
+        "area_km2":  1393,
+        "id":  2
+    },
+    {
+        "rank":  162,
+        "cca3":  "FJI",
+        "country":  "Fiji",
+        "capital":  "Suva",
+        "area_km2":  18272,
+        "id":  4
+    },
+    {
+        "rank":  118,
+        "cca3":  "FIN",
+        "country":  "Finland",
+        "capital":  "Helsinki",
+        "area_km2":  338424,
+        "id":  2
+    },
+    {
+        "rank":  23,
+        "cca3":  "FRA",
+        "country":  "France",
+        "capital":  "Paris",
+        "area_km2":  551695,
+        "id":  2
+    },
+    {
+        "rank":  184,
+        "cca3":  "GUF",
+        "country":  "French Guiana",
+        "capital":  "Cayenne",
+        "area_km2":  83534,
+        "id":  5
+    },
+    {
+        "rank":  183,
+        "cca3":  "PYF",
+        "country":  "French Polynesia",
+        "capital":  "Papeete",
+        "area_km2":  4167,
+        "id":  4
+    },
+    {
+        "rank":  146,
+        "cca3":  "GAB",
+        "country":  "Gabon",
+        "capital":  "Libreville",
+        "area_km2":  267668,
+        "id":  0
+    },
+    {
+        "rank":  142,
+        "cca3":  "GMB",
+        "country":  "Gambia",
+        "capital":  "Banjul",
+        "area_km2":  10689,
+        "id":  0
+    },
+    {
+        "rank":  131,
+        "cca3":  "GEO",
+        "country":  "Georgia",
+        "capital":  "Tbilisi",
+        "area_km2":  69700,
+        "id":  1
+    },
+    {
+        "rank":  19,
+        "cca3":  "DEU",
+        "country":  "Germany",
+        "capital":  "Berlin",
+        "area_km2":  357114,
+        "id":  2
+    },
+    {
+        "rank":  47,
+        "cca3":  "GHA",
+        "country":  "Ghana",
+        "capital":  "Accra",
+        "area_km2":  238533,
+        "id":  0
+    },
+    {
+        "rank":  219,
+        "cca3":  "GIB",
+        "country":  "Gibraltar",
+        "capital":  "Gibraltar",
+        "area_km2":  6,
+        "id":  2
+    },
+    {
+        "rank":  90,
+        "cca3":  "GRC",
+        "country":  "Greece",
+        "capital":  "Athens",
+        "area_km2":  131990,
+        "id":  2
+    },
+    {
+        "rank":  208,
+        "cca3":  "GRL",
+        "country":  "Greenland",
+        "capital":  "Nuuk",
+        "area_km2":  2166086,
+        "id":  3
+    },
+    {
+        "rank":  193,
+        "cca3":  "GRD",
+        "country":  "Grenada",
+        "capital":  "Saint George\u0027s",
+        "area_km2":  344,
+        "id":  3
+    },
+    {
+        "rank":  178,
+        "cca3":  "GLP",
+        "country":  "Guadeloupe",
+        "capital":  "Basse-Terre",
+        "area_km2":  1628,
+        "id":  3
+    },
+    {
+        "rank":  191,
+        "cca3":  "GUM",
+        "country":  "Guam",
+        "capital":  "HagÃ¥tÃ±a",
+        "area_km2":  549,
+        "id":  4
+    },
+    {
+        "rank":  68,
+        "cca3":  "GTM",
+        "country":  "Guatemala",
+        "capital":  "Guatemala City",
+        "area_km2":  108889,
+        "id":  3
+    },
+    {
+        "rank":  207,
+        "cca3":  "GGY",
+        "country":  "Guernsey",
+        "capital":  "Saint Peter Port",
+        "area_km2":  78,
+        "id":  2
+    },
+    {
+        "rank":  75,
+        "cca3":  "GIN",
+        "country":  "Guinea",
+        "capital":  "Conakry",
+        "area_km2":  245857,
+        "id":  0
+    },
+    {
+        "rank":  149,
+        "cca3":  "GNB",
+        "country":  "Guinea-Bissau",
+        "capital":  "Bissau",
+        "area_km2":  36125,
+        "id":  0
+    },
+    {
+        "rank":  164,
+        "cca3":  "GUY",
+        "country":  "Guyana",
+        "capital":  "Georgetown",
+        "area_km2":  214969,
+        "id":  5
+    },
+    {
+        "rank":  82,
+        "cca3":  "HTI",
+        "country":  "Haiti",
+        "capital":  "Port-au-Prince",
+        "area_km2":  27750,
+        "id":  3
+    },
+    {
+        "rank":  89,
+        "cca3":  "HND",
+        "country":  "Honduras",
+        "capital":  "Tegucigalpa",
+        "area_km2":  112492,
+        "id":  3
+    },
+    {
+        "rank":  104,
+        "cca3":  "HKG",
+        "country":  "Hong Kong",
+        "capital":  "Hong Kong",
+        "area_km2":  1104,
+        "id":  1
+    },
+    {
+        "rank":  94,
+        "cca3":  "HUN",
+        "country":  "Hungary",
+        "capital":  "Budapest",
+        "area_km2":  93028,
+        "id":  2
+    },
+    {
+        "rank":  179,
+        "cca3":  "ISL",
+        "country":  "Iceland",
+        "capital":  "ReykjavÃ­k",
+        "area_km2":  103000,
+        "id":  2
+    },
+    {
+        "rank":  2,
+        "cca3":  "IND",
+        "country":  "India",
+        "capital":  "New Delhi",
+        "area_km2":  3287590,
+        "id":  1
+    },
+    {
+        "rank":  4,
+        "cca3":  "IDN",
+        "country":  "Indonesia",
+        "capital":  "Jakarta",
+        "area_km2":  1904569,
+        "id":  1
+    },
+    {
+        "rank":  17,
+        "cca3":  "IRN",
+        "country":  "Iran",
+        "capital":  "Tehran",
+        "area_km2":  1648195,
+        "id":  1
+    },
+    {
+        "rank":  35,
+        "cca3":  "IRQ",
+        "country":  "Iraq",
+        "capital":  "Baghdad",
+        "area_km2":  438317,
+        "id":  1
+    },
+    {
+        "rank":  125,
+        "cca3":  "IRL",
+        "country":  "Ireland",
+        "capital":  "Dublin",
+        "area_km2":  70273,
+        "id":  2
+    },
+    {
+        "rank":  202,
+        "cca3":  "IMN",
+        "country":  "Isle of Man",
+        "capital":  "Douglas",
+        "area_km2":  572,
+        "id":  2
+    },
+    {
+        "rank":  98,
+        "cca3":  "ISR",
+        "country":  "Israel",
+        "capital":  "Jerusalem",
+        "area_km2":  20770,
+        "id":  1
+    },
+    {
+        "rank":  25,
+        "cca3":  "ITA",
+        "country":  "Italy",
+        "capital":  "Rome",
+        "area_km2":  301336,
+        "id":  2
+    },
+    {
+        "rank":  52,
+        "cca3":  "CIV",
+        "country":  "Ivory Coast",
+        "capital":  "Yamoussoukro",
+        "area_km2":  322463,
+        "id":  0
+    },
+    {
+        "rank":  139,
+        "cca3":  "JAM",
+        "country":  "Jamaica",
+        "capital":  "Kingston",
+        "area_km2":  10991,
+        "id":  3
+    },
+    {
+        "rank":  11,
+        "cca3":  "JPN",
+        "country":  "Japan",
+        "capital":  "Tokyo",
+        "area_km2":  377930,
+        "id":  1
+    },
+    {
+        "rank":  195,
+        "cca3":  "JEY",
+        "country":  "Jersey",
+        "capital":  "Saint Helier",
+        "area_km2":  116,
+        "id":  2
+    },
+    {
+        "rank":  83,
+        "cca3":  "JOR",
+        "country":  "Jordan",
+        "capital":  "Amman",
+        "area_km2":  89342,
+        "id":  1
+    },
+    {
+        "rank":  66,
+        "cca3":  "KAZ",
+        "country":  "Kazakhstan",
+        "capital":  "Nursultan",
+        "area_km2":  2724900,
+        "id":  1
+    },
+    {
+        "rank":  27,
+        "cca3":  "KEN",
+        "country":  "Kenya",
+        "capital":  "Nairobi",
+        "area_km2":  580367,
+        "id":  0
+    },
+    {
+        "rank":  192,
+        "cca3":  "KIR",
+        "country":  "Kiribati",
+        "capital":  "Tarawa",
+        "area_km2":  811,
+        "id":  4
+    },
+    {
+        "rank":  129,
+        "cca3":  "KWT",
+        "country":  "Kuwait",
+        "capital":  "Kuwait City",
+        "area_km2":  17818,
+        "id":  1
+    },
+    {
+        "rank":  110,
+        "cca3":  "KGZ",
+        "country":  "Kyrgyzstan",
+        "capital":  "Bishkek",
+        "area_km2":  199951,
+        "id":  1
+    },
+    {
+        "rank":  103,
+        "cca3":  "LAO",
+        "country":  "Laos",
+        "capital":  "Vientiane",
+        "area_km2":  236800,
+        "id":  1
+    },
+    {
+        "rank":  151,
+        "cca3":  "LVA",
+        "country":  "Latvia",
+        "capital":  "Riga",
+        "area_km2":  64559,
+        "id":  2
+    },
+    {
+        "rank":  119,
+        "cca3":  "LBN",
+        "country":  "Lebanon",
+        "capital":  "Beirut",
+        "area_km2":  10452,
+        "id":  1
+    },
+    {
+        "rank":  147,
+        "cca3":  "LSO",
+        "country":  "Lesotho",
+        "capital":  "Maseru",
+        "area_km2":  30355,
+        "id":  0
+    },
+    {
+        "rank":  121,
+        "cca3":  "LBR",
+        "country":  "Liberia",
+        "capital":  "Monrovia",
+        "area_km2":  111369,
+        "id":  0
+    },
+    {
+        "rank":  107,
+        "cca3":  "LBY",
+        "country":  "Libya",
+        "capital":  "Tripoli",
+        "area_km2":  1759540,
+        "id":  0
+    },
+    {
+        "rank":  216,
+        "cca3":  "LIE",
+        "country":  "Liechtenstein",
+        "capital":  "Vaduz",
+        "area_km2":  160,
+        "id":  2
+    },
+    {
+        "rank":  141,
+        "cca3":  "LTU",
+        "country":  "Lithuania",
+        "capital":  "Vilnius",
+        "area_km2":  65300,
+        "id":  2
+    },
+    {
+        "rank":  168,
+        "cca3":  "LUX",
+        "country":  "Luxembourg",
+        "capital":  "Luxembourg",
+        "area_km2":  2586,
+        "id":  2
+    },
+    {
+        "rank":  167,
+        "cca3":  "MAC",
+        "country":  "Macau",
+        "capital":  "Concelho de Macau",
+        "area_km2":  30,
+        "id":  1
+    },
+    {
+        "rank":  50,
+        "cca3":  "MDG",
+        "country":  "Madagascar",
+        "capital":  "Antananarivo",
+        "area_km2":  587041,
+        "id":  0
+    },
+    {
+        "rank":  62,
+        "cca3":  "MWI",
+        "country":  "Malawi",
+        "capital":  "Lilongwe",
+        "area_km2":  118484,
+        "id":  0
+    },
+    {
+        "rank":  45,
+        "cca3":  "MYS",
+        "country":  "Malaysia",
+        "capital":  "Kuala Lumpur",
+        "area_km2":  330803,
+        "id":  1
+    },
+    {
+        "rank":  174,
+        "cca3":  "MDV",
+        "country":  "Maldives",
+        "capital":  "MalÃ©",
+        "area_km2":  300,
+        "id":  1
+    },
+    {
+        "rank":  59,
+        "cca3":  "MLI",
+        "country":  "Mali",
+        "capital":  "Bamako",
+        "area_km2":  1240192,
+        "id":  0
+    },
+    {
+        "rank":  173,
+        "cca3":  "MLT",
+        "country":  "Malta",
+        "capital":  "Valletta",
+        "area_km2":  316,
+        "id":  2
+    },
+    {
+        "rank":  215,
+        "cca3":  "MHL",
+        "country":  "Marshall Islands",
+        "capital":  "Majuro",
+        "area_km2":  181,
+        "id":  4
+    },
+    {
+        "rank":  180,
+        "cca3":  "MTQ",
+        "country":  "Martinique",
+        "capital":  "Fort-de-France",
+        "area_km2":  1128,
+        "id":  3
+    },
+    {
+        "rank":  126,
+        "cca3":  "MRT",
+        "country":  "Mauritania",
+        "capital":  "Nouakchott",
+        "area_km2":  1030700,
+        "id":  0
+    },
+    {
+        "rank":  157,
+        "cca3":  "MUS",
+        "country":  "Mauritius",
+        "capital":  "Port Louis",
+        "area_km2":  2040,
+        "id":  0
+    },
+    {
+        "rank":  182,
+        "cca3":  "MYT",
+        "country":  "Mayotte",
+        "capital":  "Mamoudzou",
+        "area_km2":  374,
+        "id":  0
+    },
+    {
+        "rank":  10,
+        "cca3":  "MEX",
+        "country":  "Mexico",
+        "capital":  "Mexico City",
+        "area_km2":  1964375,
+        "id":  3
+    },
+    {
+        "rank":  194,
+        "cca3":  "FSM",
+        "country":  "Micronesia",
+        "capital":  "Palikir",
+        "area_km2":  702,
+        "id":  4
+    },
+    {
+        "rank":  135,
+        "cca3":  "MDA",
+        "country":  "Moldova",
+        "capital":  "Chisinau",
+        "area_km2":  33846,
+        "id":  2
+    },
+    {
+        "rank":  217,
+        "cca3":  "MCO",
+        "country":  "Monaco",
+        "capital":  "Monaco",
+        "area_km2":  2,
+        "id":  2
+    },
+    {
+        "rank":  134,
+        "cca3":  "MNG",
+        "country":  "Mongolia",
+        "capital":  "Ulaanbaatar",
+        "area_km2":  1564110,
+        "id":  1
+    },
+    {
+        "rank":  169,
+        "cca3":  "MNE",
+        "country":  "Montenegro",
+        "capital":  "Podgorica",
+        "area_km2":  13812,
+        "id":  2
+    },
+    {
+        "rank":  230,
+        "cca3":  "MSR",
+        "country":  "Montserrat",
+        "capital":  "Brades",
+        "area_km2":  102,
+        "id":  3
+    },
+    {
+        "rank":  40,
+        "cca3":  "MAR",
+        "country":  "Morocco",
+        "capital":  "Rabat",
+        "area_km2":  446550,
+        "id":  0
+    },
+    {
+        "rank":  48,
+        "cca3":  "MOZ",
+        "country":  "Mozambique",
+        "capital":  "Maputo",
+        "area_km2":  801590,
+        "id":  0
+    },
+    {
+        "rank":  26,
+        "cca3":  "MMR",
+        "country":  "Myanmar",
+        "capital":  "Nay Pyi Taw",
+        "area_km2":  676578,
+        "id":  1
+    },
+    {
+        "rank":  145,
+        "cca3":  "NAM",
+        "country":  "Namibia",
+        "capital":  "Windhoek",
+        "area_km2":  825615,
+        "id":  0
+    },
+    {
+        "rank":  225,
+        "cca3":  "NRU",
+        "country":  "Nauru",
+        "capital":  "Yaren",
+        "area_km2":  21,
+        "id":  4
+    },
+    {
+        "rank":  49,
+        "cca3":  "NPL",
+        "country":  "Nepal",
+        "capital":  "Kathmandu",
+        "area_km2":  147181,
+        "id":  1
+    },
+    {
+        "rank":  71,
+        "cca3":  "NLD",
+        "country":  "Netherlands",
+        "capital":  "Amsterdam",
+        "area_km2":  41850,
+        "id":  2
+    },
+    {
+        "rank":  185,
+        "cca3":  "NCL",
+        "country":  "New Caledonia",
+        "capital":  "NoumÃ©a",
+        "area_km2":  18575,
+        "id":  4
+    },
+    {
+        "rank":  123,
+        "cca3":  "NZL",
+        "country":  "New Zealand",
+        "capital":  "Wellington",
+        "area_km2":  270467,
+        "id":  4
+    },
+    {
+        "rank":  106,
+        "cca3":  "NIC",
+        "country":  "Nicaragua",
+        "capital":  "Managua",
+        "area_km2":  130373,
+        "id":  3
+    },
+    {
+        "rank":  54,
+        "cca3":  "NER",
+        "country":  "Niger",
+        "capital":  "Niamey",
+        "area_km2":  1267000,
+        "id":  0
+    },
+    {
+        "rank":  6,
+        "cca3":  "NGA",
+        "country":  "Nigeria",
+        "capital":  "Abuja",
+        "area_km2":  923768,
+        "id":  0
+    },
+    {
+        "rank":  232,
+        "cca3":  "NIU",
+        "country":  "Niue",
+        "capital":  "Alofi",
+        "area_km2":  260,
+        "id":  4
+    },
+    {
+        "rank":  56,
+        "cca3":  "PRK",
+        "country":  "North Korea",
+        "capital":  "Pyongyang",
+        "area_km2":  120538,
+        "id":  1
+    },
+    {
+        "rank":  150,
+        "cca3":  "MKD",
+        "country":  "North Macedonia",
+        "capital":  "Skopje",
+        "area_km2":  25713,
+        "id":  2
+    },
+    {
+        "rank":  210,
+        "cca3":  "NFK",
+        "country":  "Northern Mariana Islands",
+        "capital":  "Saipan",
+        "area_km2":  464,
+        "id":  4
+    },
+    {
+        "rank":  120,
+        "cca3":  "NOR",
+        "country":  "Norway",
+        "capital":  "Oslo",
+        "area_km2":  323802,
+        "id":  2
+    },
+    {
+        "rank":  127,
+        "cca3":  "OMN",
+        "country":  "Oman",
+        "capital":  "Muscat",
+        "area_km2":  309500,
+        "id":  1
+    },
+    {
+        "rank":  5,
+        "cca3":  "PAK",
+        "country":  "Pakistan",
+        "capital":  "Islamabad",
+        "area_km2":  881912,
+        "id":  1
+    },
+    {
+        "rank":  222,
+        "cca3":  "PLW",
+        "country":  "Palau",
+        "capital":  "Ngerulmud",
+        "area_km2":  459,
+        "id":  4
+    },
+    {
+        "rank":  122,
+        "cca3":  "PSE",
+        "country":  "Palestine",
+        "capital":  "Ramallah",
+        "area_km2":  6220,
+        "id":  1
+    },
+    {
+        "rank":  128,
+        "cca3":  "PAN",
+        "country":  "Panama",
+        "capital":  "Panama City",
+        "area_km2":  75417,
+        "id":  3
+    },
+    {
+        "rank":  93,
+        "cca3":  "PNG",
+        "country":  "Papua New Guinea",
+        "capital":  "Port Moresby",
+        "area_km2":  462840,
+        "id":  4
+    },
+    {
+        "rank":  109,
+        "cca3":  "PRY",
+        "country":  "Paraguay",
+        "capital":  "AsunciÃ³n",
+        "area_km2":  406752,
+        "id":  5
+    },
+    {
+        "rank":  44,
+        "cca3":  "PER",
+        "country":  "Peru",
+        "capital":  "Lima",
+        "area_km2":  1285216,
+        "id":  5
+    },
+    {
+        "rank":  13,
+        "cca3":  "PHL",
+        "country":  "Philippines",
+        "capital":  "Manila",
+        "area_km2":  342353,
+        "id":  1
+    },
+    {
+        "rank":  37,
+        "cca3":  "POL",
+        "country":  "Poland",
+        "capital":  "Warsaw",
+        "area_km2":  312679,
+        "id":  2
+    },
+    {
+        "rank":  92,
+        "cca3":  "PRT",
+        "country":  "Portugal",
+        "capital":  "Lisbon",
+        "area_km2":  92090,
+        "id":  2
+    },
+    {
+        "rank":  136,
+        "cca3":  "PRI",
+        "country":  "Puerto Rico",
+        "capital":  "San Juan",
+        "area_km2":  8870,
+        "id":  3
+    },
+    {
+        "rank":  143,
+        "cca3":  "QAT",
+        "country":  "Qatar",
+        "capital":  "Doha",
+        "area_km2":  11586,
+        "id":  1
+    },
+    {
+        "rank":  114,
+        "cca3":  "COG",
+        "country":  "Republic of the Congo",
+        "capital":  "Brazzaville",
+        "area_km2":  342000,
+        "id":  0
+    },
+    {
+        "rank":  161,
+        "cca3":  "REU",
+        "country":  "Reunion",
+        "capital":  "Saint-Denis",
+        "area_km2":  2511,
+        "id":  0
+    },
+    {
+        "rank":  64,
+        "cca3":  "ROU",
+        "country":  "Romania",
+        "capital":  "Bucharest",
+        "area_km2":  238391,
+        "id":  2
+    },
+    {
+        "rank":  9,
+        "cca3":  "RUS",
+        "country":  "Russia",
+        "capital":  "Moscow",
+        "area_km2":  17098242,
+        "id":  2
+    },
+    {
+        "rank":  76,
+        "cca3":  "RWA",
+        "country":  "Rwanda",
+        "capital":  "Kigali",
+        "area_km2":  26338,
+        "id":  0
+    },
+    {
+        "rank":  228,
+        "cca3":  "BLM",
+        "country":  "Saint Barthelemy",
+        "capital":  "Gustavia",
+        "area_km2":  21,
+        "id":  3
+    },
+    {
+        "rank":  211,
+        "cca3":  "KNA",
+        "country":  "Saint Kitts and Nevis",
+        "capital":  "Basseterre",
+        "area_km2":  261,
+        "id":  3
+    },
+    {
+        "rank":  190,
+        "cca3":  "LCA",
+        "country":  "Saint Lucia",
+        "capital":  "Castries",
+        "area_km2":  616,
+        "id":  3
+    },
+    {
+        "rank":  220,
+        "cca3":  "MAF",
+        "country":  "Saint Martin",
+        "capital":  "Marigot",
+        "area_km2":  53,
+        "id":  3
+    },
+    {
+        "rank":  229,
+        "cca3":  "SPM",
+        "country":  "Saint Pierre and Miquelon",
+        "capital":  "Saint-Pierre",
+        "area_km2":  242,
+        "id":  3
+    },
+    {
+        "rank":  199,
+        "cca3":  "VCT",
+        "country":  "Saint Vincent and the Grenadines",
+        "capital":  "Kingstown",
+        "area_km2":  389,
+        "id":  3
+    },
+    {
+        "rank":  188,
+        "cca3":  "WSM",
+        "country":  "Samoa",
+        "capital":  "Apia",
+        "area_km2":  2842,
+        "id":  4
+    },
+    {
+        "rank":  218,
+        "cca3":  "SMR",
+        "country":  "San Marino",
+        "capital":  "San Marino",
+        "area_km2":  61,
+        "id":  2
+    },
+    {
+        "rank":  187,
+        "cca3":  "STP",
+        "country":  "Sao Tome and Principe",
+        "capital":  "SÃ£o TomÃ©",
+        "area_km2":  964,
+        "id":  0
+    },
+    {
+        "rank":  41,
+        "cca3":  "SAU",
+        "country":  "Saudi Arabia",
+        "capital":  "Riyadh",
+        "area_km2":  2149690,
+        "id":  1
+    },
+    {
+        "rank":  72,
+        "cca3":  "SEN",
+        "country":  "Senegal",
+        "capital":  "Dakar",
+        "area_km2":  196722,
+        "id":  0
+    },
+    {
+        "rank":  105,
+        "cca3":  "SRB",
+        "country":  "Serbia",
+        "capital":  "Belgrade",
+        "area_km2":  88361,
+        "id":  2
+    },
+    {
+        "rank":  196,
+        "cca3":  "SYC",
+        "country":  "Seychelles",
+        "capital":  "Victoria",
+        "area_km2":  452,
+        "id":  0
+    },
+    {
+        "rank":  102,
+        "cca3":  "SLE",
+        "country":  "Sierra Leone",
+        "capital":  "Freetown",
+        "area_km2":  71740,
+        "id":  0
+    },
+    {
+        "rank":  113,
+        "cca3":  "SGP",
+        "country":  "Singapore",
+        "capital":  "Singapore",
+        "area_km2":  710,
+        "id":  1
+    },
+    {
+        "rank":  214,
+        "cca3":  "SXM",
+        "country":  "Sint Maarten",
+        "capital":  "Philipsburg",
+        "area_km2":  34,
+        "id":  3
+    },
+    {
+        "rank":  116,
+        "cca3":  "SVK",
+        "country":  "Slovakia",
+        "capital":  "Bratislava",
+        "area_km2":  49037,
+        "id":  2
+    },
+    {
+        "rank":  148,
+        "cca3":  "SVN",
+        "country":  "Slovenia",
+        "capital":  "Ljubljana",
+        "area_km2":  20273,
+        "id":  2
+    },
+    {
+        "rank":  166,
+        "cca3":  "SLB",
+        "country":  "Solomon Islands",
+        "capital":  "Honiara",
+        "area_km2":  28896,
+        "id":  4
+    },
+    {
+        "rank":  70,
+        "cca3":  "SOM",
+        "country":  "Somalia",
+        "capital":  "Mogadishu",
+        "area_km2":  637657,
+        "id":  0
+    },
+    {
+        "rank":  24,
+        "cca3":  "ZAF",
+        "country":  "South Africa",
+        "capital":  "Pretoria",
+        "area_km2":  1221037,
+        "id":  0
+    },
+    {
+        "rank":  29,
+        "cca3":  "KOR",
+        "country":  "South Korea",
+        "capital":  "Seoul",
+        "area_km2":  100210,
+        "id":  1
+    },
+    {
+        "rank":  86,
+        "cca3":  "SSD",
+        "country":  "South Sudan",
+        "capital":  "Juba",
+        "area_km2":  619745,
+        "id":  0
+    },
+    {
+        "rank":  30,
+        "cca3":  "ESP",
+        "country":  "Spain",
+        "capital":  "Madrid",
+        "area_km2":  505992,
+        "id":  2
+    },
+    {
+        "rank":  61,
+        "cca3":  "LKA",
+        "country":  "Sri Lanka",
+        "capital":  "Colombo",
+        "area_km2":  65610,
+        "id":  1
+    },
+    {
+        "rank":  32,
+        "cca3":  "SDN",
+        "country":  "Sudan",
+        "capital":  "Khartoum",
+        "area_km2":  1886068,
+        "id":  0
+    },
+    {
+        "rank":  170,
+        "cca3":  "SUR",
+        "country":  "Suriname",
+        "capital":  "Paramaribo",
+        "area_km2":  163820,
+        "id":  5
+    },
+    {
+        "rank":  87,
+        "cca3":  "SWE",
+        "country":  "Sweden",
+        "capital":  "Stockholm",
+        "area_km2":  450295,
+        "id":  2
+    },
+    {
+        "rank":  101,
+        "cca3":  "CHE",
+        "country":  "Switzerland",
+        "capital":  "Bern",
+        "area_km2":  41284,
+        "id":  2
+    },
+    {
+        "rank":  60,
+        "cca3":  "SYR",
+        "country":  "Syria",
+        "capital":  "Damascus",
+        "area_km2":  185180,
+        "id":  1
+    },
+    {
+        "rank":  57,
+        "cca3":  "TWN",
+        "country":  "Taiwan",
+        "capital":  "Taipei",
+        "area_km2":  36193,
+        "id":  1
+    },
+    {
+        "rank":  95,
+        "cca3":  "TJK",
+        "country":  "Tajikistan",
+        "capital":  "Dushanbe",
+        "area_km2":  143100,
+        "id":  1
+    },
+    {
+        "rank":  22,
+        "cca3":  "TZA",
+        "country":  "Tanzania",
+        "capital":  "Dodoma",
+        "area_km2":  945087,
+        "id":  0
+    },
+    {
+        "rank":  20,
+        "cca3":  "THA",
+        "country":  "Thailand",
+        "capital":  "Bangkok",
+        "area_km2":  513120,
+        "id":  1
+    },
+    {
+        "rank":  155,
+        "cca3":  "TLS",
+        "country":  "Timor-Leste",
+        "capital":  "Dili",
+        "area_km2":  14874,
+        "id":  1
+    },
+    {
+        "rank":  100,
+        "cca3":  "TGO",
+        "country":  "Togo",
+        "capital":  "LomÃ©",
+        "area_km2":  56785,
+        "id":  0
+    },
+    {
+        "rank":  233,
+        "cca3":  "TKL",
+        "country":  "Tokelau",
+        "capital":  "Nukunonu",
+        "area_km2":  12,
+        "id":  4
+    },
+    {
+        "rank":  197,
+        "cca3":  "TON",
+        "country":  "Tonga",
+        "capital":  "Nukuâ€˜alofa",
+        "area_km2":  747,
+        "id":  4
+    },
+    {
+        "rank":  153,
+        "cca3":  "TTO",
+        "country":  "Trinidad and Tobago",
+        "capital":  "Port-of-Spain",
+        "area_km2":  5130,
+        "id":  3
+    },
+    {
+        "rank":  79,
+        "cca3":  "TUN",
+        "country":  "Tunisia",
+        "capital":  "Tunis",
+        "area_km2":  163610,
+        "id":  0
+    },
+    {
+        "rank":  18,
+        "cca3":  "TUR",
+        "country":  "Turkey",
+        "capital":  "Ankara",
+        "area_km2":  783562,
+        "id":  1
+    },
+    {
+        "rank":  111,
+        "cca3":  "TKM",
+        "country":  "Turkmenistan",
+        "capital":  "Ashgabat",
+        "area_km2":  488100,
+        "id":  1
+    },
+    {
+        "rank":  212,
+        "cca3":  "TCA",
+        "country":  "Turks and Caicos Islands",
+        "capital":  "Cockburn Town",
+        "area_km2":  948,
+        "id":  3
+    },
+    {
+        "rank":  227,
+        "cca3":  "TUV",
+        "country":  "Tuvalu",
+        "capital":  "Funafuti",
+        "area_km2":  26,
+        "id":  4
+    },
+    {
+        "rank":  31,
+        "cca3":  "UGA",
+        "country":  "Uganda",
+        "capital":  "Kampala",
+        "area_km2":  241550,
+        "id":  0
+    },
+    {
+        "rank":  38,
+        "cca3":  "UKR",
+        "country":  "Ukraine",
+        "capital":  "Kiev",
+        "area_km2":  603500,
+        "id":  2
+    },
+    {
+        "rank":  97,
+        "cca3":  "ARE",
+        "country":  "United Arab Emirates",
+        "capital":  "Abu Dhabi",
+        "area_km2":  83600,
+        "id":  1
+    },
+    {
+        "rank":  21,
+        "cca3":  "GBR",
+        "country":  "United Kingdom",
+        "capital":  "London",
+        "area_km2":  242900,
+        "id":  2
+    },
+    {
+        "rank":  3,
+        "cca3":  "USA",
+        "country":  "United States",
+        "capital":  "Washington, D.C.",
+        "area_km2":  9372610,
+        "id":  3
+    },
+    {
+        "rank":  200,
+        "cca3":  "VIR",
+        "country":  "United States Virgin Islands",
+        "capital":  "Charlotte Amalie",
+        "area_km2":  347,
+        "id":  3
+    },
+    {
+        "rank":  133,
+        "cca3":  "URY",
+        "country":  "Uruguay",
+        "capital":  "Montevideo",
+        "area_km2":  181034,
+        "id":  5
+    },
+    {
+        "rank":  43,
+        "cca3":  "UZB",
+        "country":  "Uzbekistan",
+        "capital":  "Tashkent",
+        "area_km2":  447400,
+        "id":  1
+    },
+    {
+        "rank":  181,
+        "cca3":  "VUT",
+        "country":  "Vanuatu",
+        "capital":  "Port-Vila",
+        "area_km2":  12189,
+        "id":  4
+    },
+    {
+        "rank":  234,
+        "cca3":  "VAT",
+        "country":  "Vatican City",
+        "capital":  "Vatican City",
+        "area_km2":  1,
+        "id":  2
+    },
+    {
+        "rank":  51,
+        "cca3":  "VEN",
+        "country":  "Venezuela",
+        "capital":  "Caracas",
+        "area_km2":  916445,
+        "id":  5
+    },
+    {
+        "rank":  16,
+        "cca3":  "VNM",
+        "country":  "Vietnam",
+        "capital":  "Hanoi",
+        "area_km2":  331212,
+        "id":  1
+    },
+    {
+        "rank":  226,
+        "cca3":  "WLF",
+        "country":  "Wallis and Futuna",
+        "capital":  "Mata-Utu",
+        "area_km2":  142,
+        "id":  4
+    },
+    {
+        "rank":  172,
+        "cca3":  "ESH",
+        "country":  "Western Sahara",
+        "capital":  "El AaiÃºn",
+        "area_km2":  266000,
+        "id":  0
+    },
+    {
+        "rank":  46,
+        "cca3":  "YEM",
+        "country":  "Yemen",
+        "capital":  "Sanaa",
+        "area_km2":  527968,
+        "id":  1
+    },
+    {
+        "rank":  63,
+        "cca3":  "ZMB",
+        "country":  "Zambia",
+        "capital":  "Lusaka",
+        "area_km2":  752612,
+        "id":  0
+    },
+    {
+        "rank":  74,
+        "cca3":  "ZWE",
+        "country":  "Zimbabwe",
+        "capital":  "Harare",
+        "area_km2":  390757,
+        "id":  0
+    }
+]
